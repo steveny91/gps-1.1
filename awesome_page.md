@@ -1,7 +1,7 @@
 #For gps 1.1#
 
 **Something bold**
-
+*italicize here*
 *Italics*
 
     Some sort of code block here
